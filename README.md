@@ -11,7 +11,7 @@ Struts2 Dynamic Web Application Sample
 
 # Setup
 
-## Setting up J2EE (Dynamic Web Project with other options) perespective for Eclipse -
+## Setting up Java EE (Dynamic Web Project with other options) perespective for Eclipse -
 
 1) Click on Help and then click on “Install New Software”.
 2) In Work with paste this link: 2022-03 - https://download.eclipse.org/releases/2022-03/ Change the link according to your Eclipse version (2022-03 is version)
